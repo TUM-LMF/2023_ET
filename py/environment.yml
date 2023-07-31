@@ -457,4 +457,3 @@ dependencies:
       - dahuffman==0.4.1
       - ipython-tikzmagic==0.1.1
       - mygrad==2.2.0
-prefix: /home/koerner/anaconda3/envs/CVML
